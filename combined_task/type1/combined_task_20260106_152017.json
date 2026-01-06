@@ -1,0 +1,16 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Pet",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.adoptapet.com/"
+  ],
+  "scenario": "I'm finding a calm, low-energy senior dog as a companion. He prefers boxers or bulldogs and we want a dog that is already altered or otherwise a good fit for a quiet household. To decide, I'll look specifically for a male senior boxer near 90028, survey the available senior spayed/neutered dogs in that neighborhood, and also check whether any English bulldogs being privately rehomed nearby might be a match.",
+  "combined_task": "Find and compare available senior, spayed/neutered companion dogs near zip code 90028—prioritizing male senior boxers and English bulldogs cared for by private owners—for adoption or private rehoming.",
+  "selected_subtasks": [
+    "Find a male senior boxer near zip code 90028.",
+    "Find an English bulldog near zip code 90028 that was cared for by a private owner.",
+    "Browse senior spayed/neutered dogs near zip code 90028."
+  ],
+  "memo" : "pet이 같아서 살릴지말지 고민"
+}

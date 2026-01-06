@@ -1,0 +1,15 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Hotel",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.apartments.com/"
+  ],
+  "scenario": "I'm preparing to move, so i need to compare rental condos in two cities. In NYC I'm looking for 3-bedroom, 2-bath condos priced $1500- $2500, and in Houston I need a condo available by the 1st of next month with rent no more than 30% of an $8000 income and at least 600 square feet.",
+  "combined_task": "Search, filter, and compare rental condos in NYC and Houston according to the specified bedroom/bathroom/price/size/move-in constraints, then produce a shortlist of units that meet the budget and availability criteria.",
+  "selected_subtasks": [
+    "Search for 3 bedroom condos with 2 bathrooms within $1500- $2500 range in NYC.",
+    "Find a condo for rent in Houston, TX, with a monthly rent of no more than 30% of an income of $8000. The condo should have a minimum area of 600 square feet, and the move-in date is the 1st of next month."
+  ],
+  "memo" : "살리기3"
+}

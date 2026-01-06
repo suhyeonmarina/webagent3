@@ -1,0 +1,18 @@
+{
+  "mode": "same_subdomain_diff_website",
+  "subdomain": "Shopping",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.bestbuy.com/",
+    "https://www.jcpenney.com/",
+    "https://www.ikea.com/"
+  ],
+  "scenario": "I'm doing one online shopping session to prepare for a friend's birthday and a small home refresh. Add a $100 Best Buy gift card for the birthday and the best-selling men's T-shirt in large size, short sleeve, and Halloween event style to my cart. Then find and add the cheapest black sofa with at least three seats, a leather finish, and at least four stars to my cart.",
+  "combined_task": "In a single shopping session, add a $100 Best Buy birthday gift card, the best-selling large short-sleeve Halloween men's T-shirt, and the cheapest qualifying black leather three-seat sofa (≥4 stars) to my cart.",
+  "selected_subtasks": [
+    "Add a $100 Best Buy gift card for a birthday to my cart.",
+    "Add the best-selling men's T-shirt in large size, short sleeve, and Halloween event style to my cart.",
+    "Add the cheapest black sofa with at least three seats, a leather finish, and at least four stars to my cart."
+  ],
+  "memo" : "날리기"
+}

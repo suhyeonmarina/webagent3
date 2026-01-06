@@ -1,0 +1,15 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Pet",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.akc.org/"
+  ],
+  "scenario": "You live in Manhattan (zip 10005) and are thinking of adding a new companion to your household. You're deciding between an Afghan Hound, Akita, and Azawakh and want a clear comparison of their size, temperament, exercise and grooming needs to help choose.",
+  "combined_task": "Compare the three breeds to choose a suitable dog for your household, and find a nearby nail-trim groomer in zip 10005 and check their service price.",
+  "selected_subtasks": [
+    "Find a dog groomer for nail trimming within 100 miles of zip code 10005 and check the detailed service prices of the first one.",
+    "Compare the breeds Afghan Hound, Akita and Azawakh."
+  ],
+  "memo" : "살리기1"
+}

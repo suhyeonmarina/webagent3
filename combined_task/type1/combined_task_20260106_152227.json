@@ -1,0 +1,16 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Cooking",
+  "status": "OK",
+  "selected_websites": [
+    "https://cookpad.com/"
+  ],
+  "scenario": "You're hosting a small weekend brunch for family and friends with mixed dietary needs: one guest is gluten-free and has a nut allergy, another prefers traditional wheat pancakes and strongly dislikes beetroot, and the group would like a savory vegetable main. You need recipes that meet each requirement so everyone can eat safely and enjoy the meal.",
+  "combined_task": "Find recipes to assemble a brunch menu that includes a savory eggplant-and-mushroom dish, wheat-based pancakes that do not contain beetroot, and gluten-free chocolate chip cookies that are nut-free.",
+  "selected_subtasks": [
+    "Find a recipe that includes eggplant and mushrooms.",
+    "Show me recipes for pancakes with wheat and without beetroot.",
+    "Browse recipes for gluten-free chocolate chip cookies that can be made without nuts."
+  ],
+  "memo" : "살리기2"
+}

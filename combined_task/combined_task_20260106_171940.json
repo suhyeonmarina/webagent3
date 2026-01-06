@@ -1,0 +1,16 @@
+{
+  "mode": "same_subdomain_diff_website",
+  "subdomain": "Hotel",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.apartments.com/",
+    "https://www.marriott.com/"
+  ],
+  "scenario": "I'm relocating to New York City next month and need to find a 3 bedroom condo with 2 bathrooms in the $1500- $2500 range. While arranging the move, I also want to browse Marriott Bonvoy credit cards to pick one for short-term hotel stays and to earn points.",
+  "combined_task": "Find 3-bedroom, 2-bath condos in NYC within the $1500- $2500 range and evaluate Marriott Bonvoy credit card options to support short-term stays and earn loyalty points during the move.",
+  "selected_subtasks": [
+    "Browse Marriott Bonvoy credit cards on Marriott.",
+    "Search for 3 bedroom condos with 2 bathrooms within $1500- $2500 range in NYC."
+  ],
+  "memo" : "날리기"
+}

@@ -1,0 +1,18 @@
+{
+  "mode": "same_subdomain_diff_website",
+  "subdomain": "Health",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.cvs.com/",
+    "https://www.thumbtack.com/",
+    "https://www.drugs.com/"
+  ],
+  "scenario": "I'm organizing a fitness and nutrition plan for a 25-year-old live in zip code 10040. I need to find a suitable personal trainer nearby, review natural supplement options, and pick the most-reviewed gluten-free multivitamin from CVS under $15.",
+  "combined_task": "Find a muscle-building personal trainer in 10040, survey natural products/supplement options, and select the most-reviewed CVS Health gluten-free multivitamin priced under $15.",
+  "selected_subtasks": [
+    "Find a personal trainer service at 10040 for a 25-year-old client aiming to build muscle.",
+    "Browse the natural products database.",
+    "Find the most reviewed gluten-free multivitamins from CVS Health Brand under $15."
+  ],
+  "memo" : "살리기2"
+}

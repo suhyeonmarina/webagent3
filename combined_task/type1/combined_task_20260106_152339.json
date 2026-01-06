@@ -1,0 +1,16 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Health",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.babycenter.com/"
+  ],
+  "scenario": "I'm a mother juggling care for a newborn and a seven-year-old while also being concerned about a recent fever during my current pregnancy. I want to (1) see what other pregnant people have recently shared about pregnancy fever, (2) calculate my newborn son's growth percentiles using his birth measurements, and (3) check a height prediction for my seven-year-old daughter based on her current measurements and our family heights so I can review everything before my next pediatric/OB appointment.",
+  "combined_task": "Gather recent community experiences about pregnancy fever and evaluate my children's growth—calculate my newborn son's birth percentiles and predict my seven-year-old daughter's future height—so I can discuss health and development concerns with care providers.",
+  "selected_subtasks": [
+    "Show me community posts about pregnancy fever from the past 30 days.",
+    "My baby boy was born on Dec 1, 2025. His weight is 7 lb 8 oz, height is 20 inches, and head circumference is 35 cm. The measurement date is Dec 1, 2025. Can you calculate his growth percentiles using a calculator?",
+    "See the prediction about the girl child's height, whose current height at seven years is 4 feet and whose weight is 55 lbs, her mother is 5 feet 2, and her father is 5 feet 8."
+  ],
+  "memo" : "날리기"
+}

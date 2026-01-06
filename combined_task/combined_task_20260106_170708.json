@@ -1,0 +1,16 @@
+{
+  "mode": "same_subdomain_diff_website",
+  "subdomain": "Game",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.ign.com/",
+    "https://boardgamegeek.com/"
+  ],
+  "scenario": "You're planning a two-player gaming weekend with a friend and need to decide what to bring. To decide, you want to see which game was Steam Deck's top-played over the past year and read reviews from players with 100+ hours on Deck, and to find the most popular two-player board game on The Hotness rated above 7.5.",
+  "combined_task": "Compare and choose games for a two-player weekend by identifying the Steam Deck's top-played game of the past year and reading in-depth Deck-player reviews, and by finding the most popular 2-player board game on The Hotness rated over 7.5.",
+  "selected_subtasks": [
+    "Find the top game listed in the Steam Deck's top-played list over the past year. Then, browse reviews for that game from players who have played over 100 hours and primarily use a Steam Deck.",
+    "Find the most popular board game on the 'The Hotness' list that has a rating above 7.5 and is suitable for 2 players."
+  ],
+  "memo" : "살리기1"
+}

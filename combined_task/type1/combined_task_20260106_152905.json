@@ -1,0 +1,16 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Shipping",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.fedex.com/en-us/home.html"
+  ],
+  "scenario": "You run a small online shop based in Manhattan (zip 10019). A buyer in Los Angeles (zip 90028) is returning an item and you need to estimate the FedEx Ground cost for the 3-pound return, locate a staffed FedEx location near 10019 to drop off the return, and verify the return label scan by looking up tracking info for shipment #3023858502. At the same time, your supplier in Texas is preparing a 4-pound replacement to ship to New York, so you also want to calculate that shipping cost to reconcile refund and replacement shipping charges.",
+  "combined_task": "Manage a customer return and replacement: estimate the outbound and inbound FedEx shipping costs, find a staffed local FedEx drop-off, and verify the relevant tracking.",
+  "selected_subtasks": [
+    "Calculate a FedEx Ground shipping rate for a 3-pound package from zip code 10019 to zip code 90028.",
+    "Find a staffed FedEx location near zip code 10019 to return a package.",
+    "Look up tracking information for shipment #3023858502.",
+    "Calculate the shipping cost for 4 pound package from Texas to New York."
+  ]
+}
