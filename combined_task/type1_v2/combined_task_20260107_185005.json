@@ -1,0 +1,14 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Shipping",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.ups.com/"
+  ],
+  "scenario": "I'm in Miami and need to send a common medium-sized box today, so I want to compare the flat-rate shipping cost with other parcel services to decide which carrier to use. If UPS is the chosen carrier, I also need to find the nearest UPS drop-off point in Miami, Florida.",
+  "combined_task": "Compare flat-rate shipping cost for a common medium-sized box against other parcel services and identify the nearest UPS drop-off point in Miami, Florida if UPS is selected.",
+  "selected_subtasks": [
+    "Find a UPS drop-off point near Miami Florida.",
+    "Find the shipping cost of a Common medium-sized box in flat-rate shipping and compare it with other parcel services."
+  ]
+}

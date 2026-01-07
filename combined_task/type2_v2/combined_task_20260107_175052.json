@@ -1,0 +1,15 @@
+{
+  "mode": "same_subdomain_diff_website",
+  "subdomain": "Pet",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.akc.org/",
+    "https://www.adoptapet.com/"
+  ],
+  "scenario": "I want to adopt a young spayed male dog from a private owner near zip 33109 and prepare it for competition. To plan training and possible entries, I also need to locate obedience trials in New York happening within the next month.",
+  "combined_task": "Locate adoptable young spayed male dogs cared for by private owners within 50 miles of zip 33109 and identify obedience trials in New York in the next month so I can plan training and entries.",
+  "selected_subtasks": [
+    "Search for a young spayed male dog cared for by a private owner within 50 miles of zip 33109.",
+    "Find obedience trials in the state of New York in the next month."
+  ]
+}

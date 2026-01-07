@@ -1,0 +1,15 @@
+{
+  "mode": "same_subdomain_diff_website",
+  "subdomain": "Government",
+  "status": "OK",
+  "selected_websites": [
+    "https://new.mta.info/",
+    "https://www.justice.gov/"
+  ],
+  "scenario": "I'm reviewing the final environmental impact statement for the Jamaica Bus Depot expansion and need to read the report on new.mta.info. If I have concerns about the project or want to ask questions, I need the Office of the Inspector General's address and phone to contact them.",
+  "combined_task": "Locate and review the Jamaica Bus Depot expansion final EIS report on new.mta.info and obtain the Office of the Inspector General (OIG) contact details to raise any concerns.",
+  "selected_subtasks": [
+    "Get the report from the final environmental impact statement for the Jamaica Bus Depot expansion on new.mta.info.",
+    "Find the address and phone of the Office of the Inspector General (OIG)."
+  ]
+}

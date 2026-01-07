@@ -1,0 +1,14 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Pet",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.petfinder.com/"
+  ],
+  "scenario": "I'm deciding whether to adopt a cat or a shorthaired dog for my family and want to compare nearby, already-listed options before contacting rescues. I need a list of adoptable cats near my home sorted by oldest listings and a list of shorthaired dogs that are good with kids and cats and have been on Petfinder for over a month.",
+  "combined_task": "Compare adoptable pets near zip code 94587 to decide between a cat or a shorthaired dog: list cats within 25 miles (young or adult, sorted by Oldest Addition) and list shorthaired dogs within 100 miles that are good with kids and cats and have been on Petfinder for over 30 days.",
+  "selected_subtasks": [
+    "Find cats available for adoption within 25 miles of zip code 94587, Young or adult-age cats, sorted by Oldest Addition.",
+    "Find a list of shorthaired dogs available for adoption within 100 miles of zip code 94587 that are good with kids and cats, and have been on Petfinder for over 30 days."
+  ]
+}

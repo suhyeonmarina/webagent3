@@ -32,8 +32,8 @@ MODEL_NAME = "gpt-5-mini"
 
 # 아래 3개 중 하나로 설정
 #MODE = MODE_SAME_SUBDOMAIN_SAME_WEBSITE
-MODE = MODE_SAME_SUBDOMAIN_DIFF_WEBSITE
-#MODE = MODE_DIFF_SUBDOMAIN_DIFF_WEBSITE
+#MODE = MODE_SAME_SUBDOMAIN_DIFF_WEBSITE
+MODE = MODE_DIFF_SUBDOMAIN_DIFF_WEBSITE
 
 
 client = OpenAI(api_key=api_key)
@@ -95,7 +95,7 @@ def validate_output(
     if mode == MODE_SAME_SUBDOMAIN_SAME_WEBSITE:
         # 반드시 website 1개
         if len(used_websites) != 1:
-            return {"status": "PASS", "reason": "expected exactly 1 website"}
+            return {"status": "PASS", "reason": "expected exactly 1 website", "used_websites" : used_websites, "selected_subtasks": selected_subtasks}
         return {
             "status": "OK",
             "selected_websites": list(used_websites),

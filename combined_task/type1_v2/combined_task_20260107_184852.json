@@ -1,0 +1,15 @@
+{
+  "mode": "same_subdomain_same_website",
+  "subdomain": "Weather",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.theweathernetwork.com/"
+  ],
+  "scenario": "I'm preparing a short weather and climate briefing for western Canada today. Gather the 7-day forecast for Vancouver, get the current wind speed in Calgary, and find the latest climate news to provide regional context.",
+  "combined_task": "Compile a short, up-to-date weather and climate briefing for western Canada by retrieving the 7-day forecast for Vancouver, the current wind speed in Calgary, and the latest climate news.",
+  "selected_subtasks": [
+    "Find the weather for Vancouver, British Columbia for the next seven days.",
+    "Find the latest climate news.",
+    "Check the current wind speed in Calgary, Alberta."
+  ]
+}

@@ -23,8 +23,10 @@ def build_candidates_same_website_same_subdomain(
     if not pairs:
         raise RuntimeError("No (subdomain, website) pair has enough tasks.")
 
+
     selected_subdomain, selected_website = random.choice(pairs)
     tasks = subdomain_groups[selected_subdomain][selected_website]
+    print(tasks)
 
     candidate_blocks = [{"website": selected_website, "tasks": tasks}]
     task_to_website = {t: selected_website for t in tasks}

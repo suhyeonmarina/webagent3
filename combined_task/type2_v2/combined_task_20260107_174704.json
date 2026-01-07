@@ -1,0 +1,17 @@
+{
+  "mode": "same_subdomain_diff_website",
+  "subdomain": "Other",
+  "status": "OK",
+  "selected_websites": [
+    "https://iclr.cc/",
+    "https://arxiv.org/",
+    "https://dblp.org/"
+  ],
+  "scenario": "I'm preparing a short literature review on recent and influential machine learning work and need to collect high-impact papers and representative talks. Gather recent reinforcement-learning submissions on arXiv from Sep 2025–Jan 2026, identify the most-cited paper from the 2025 CVPR main conference, and open the first Best Paper Award video from ICLR 2025 for historical context.",
+  "combined_task": "Collect high-impact and recent machine learning research materials: recent RL arXiv submissions (Sep 2025–Jan 2026), the most-cited CVPR 2022 main-conference paper, and the first ICLR 2025 Best Paper Award talk video.",
+  "selected_subtasks": [
+    "Search for papers related to reinforcement learning under the topics of computer science and mathematics on arxiv, with recent submission dates between September 2025 and January 2026.",
+    "Find the most cited publication at the 2025 CVPR main conference.",
+    "Open the page for the first Best Paper Award video recording of talks from ICLR 2025."
+  ]
+}

@@ -23,7 +23,7 @@
     "website": "https://www.discogs.com/",
     "reference_length": 6,
     "level": "medium",
-    "sub_domain": "Music",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -50,7 +50,7 @@
     "website": "https://www.carmax.com/",
     "reference_length": 10,
     "level": "medium",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -68,7 +68,7 @@
     "website": "https://www.carvana.com/",
     "reference_length": 17,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -77,7 +77,7 @@
     "website": "https://www.ign.com/",
     "reference_length": 6,
     "level": "medium",
-    "sub_domain": "Game",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -86,7 +86,7 @@
     "website": "https://www.ign.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Game",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -113,7 +113,7 @@
     "website": "https://www.kbb.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -122,7 +122,7 @@
     "website": "https://www.imdb.com/",
     "reference_length": 6,
     "level": "medium",
-    "sub_domain": "Movie",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -131,7 +131,7 @@
     "website": "https://www.amazon.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -176,7 +176,7 @@
     "website": "https://www.microcenter.com/",
     "reference_length": 12,
     "level": "hard",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -203,7 +203,7 @@
     "website": "https://www.eventbrite.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Event",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -221,7 +221,7 @@
     "website": "https://www.apple.com/",
     "reference_length": 4,
     "level": "easy",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -230,7 +230,7 @@
     "website": "https://www.carmax.com/",
     "reference_length": 13,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -248,7 +248,7 @@
     "website": "https://www.rottentomatoes.com/",
     "reference_length": 3,
     "level": "easy",
-    "sub_domain": "Movie",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -257,7 +257,7 @@
     "website": "https://www.apple.com/",
     "reference_length": 4,
     "level": "easy",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -275,7 +275,7 @@
     "website": "https://ticketmaster.com/",
     "reference_length": 4,
     "level": "easy",
-    "sub_domain": "Event",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -284,7 +284,7 @@
     "website": "https://www.kbb.com/",
     "reference_length": 11,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -293,7 +293,7 @@
     "website": "https://www.carmax.com/",
     "reference_length": 12,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -338,7 +338,7 @@
     "website": "https://www.cars.com/",
     "reference_length": 6,
     "level": "medium",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -374,7 +374,7 @@
     "website": "https://www.cars.com/",
     "reference_length": 11,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -383,7 +383,7 @@
     "website": "https://www.fandom.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Movie",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -428,7 +428,7 @@
     "website": "https://www.stubhub.com/",
     "reference_length": 3,
     "level": "easy",
-    "sub_domain": "Event",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -437,7 +437,7 @@
     "website": "https://www.google.com/shopping?udm=28",
     "reference_length": 5,
     "level": "easy",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -545,7 +545,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 6,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -752,7 +752,7 @@
     "website": "https://www.tumblr.com/",
     "reference_length": 4,
     "level": "easy",
-    "sub_domain": "Social Media",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -761,7 +761,7 @@
     "website": "https://www.allrecipes.com/",
     "reference_length": 5,
     "level": "easy",
-    "sub_domain": "Cooking",
+    "sub_domain": "Other",
     "with_llm": 1
   },
   {
@@ -788,7 +788,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 13,
     "level": "hard",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -833,7 +833,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -887,7 +887,7 @@
     "website": "https://www.google.com/shopping?udm=28",
     "reference_length": 10,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -896,7 +896,7 @@
     "website": "https://www.google.com/shopping?udm=28",
     "reference_length": 10,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1013,7 +1013,7 @@
     "website": "https://www.healthline.com/",
     "reference_length": 10,
     "level": "medium",
-    "sub_domain": "Cooking",
+    "sub_domain": "Health",
     "with_llm": 1
   },
   {
@@ -1058,7 +1058,7 @@
     "website": "https://www.cars.com/",
     "reference_length": 9,
     "level": "medium",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -1085,7 +1085,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 10,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1247,7 +1247,7 @@
     "website": "https://www.cars.com/",
     "reference_length": 11,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -1292,7 +1292,7 @@
     "website": "https://www.cars.com/",
     "reference_length": 9,
     "level": "medium",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -1373,7 +1373,7 @@
     "website": "https://cookpad.com/",
     "reference_length": 3,
     "level": "easy",
-    "sub_domain": "Cooking",
+    "sub_domain": "Other",
     "with_llm": 1
   },
   {
@@ -1400,7 +1400,7 @@
     "website": "https://9gag.com/",
     "reference_length": 2,
     "level": "easy",
-    "sub_domain": "Social Media",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -1463,7 +1463,7 @@
     "website": "https://www.bbb.org/",
     "reference_length": 11,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -1472,7 +1472,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 11,
     "level": "hard",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1508,7 +1508,7 @@
     "website": "https://cookpad.com/",
     "reference_length": 6,
     "level": "medium",
-    "sub_domain": "Cooking",
+    "sub_domain": "Other",
     "with_llm": 1
   },
   {
@@ -1526,7 +1526,7 @@
     "website": "https://www.cars.com/",
     "reference_length": 9,
     "level": "medium",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -1562,7 +1562,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 4,
     "level": "easy",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1616,7 +1616,7 @@
     "website": "https://www.apartments.com/",
     "reference_length": 14,
     "level": "hard",
-    "sub_domain": "Travel",
+    "sub_domain": "Housing",
     "with_llm": 1
   },
   {
@@ -1643,7 +1643,7 @@
     "website": "https://cookpad.com/",
     "reference_length": 4,
     "level": "easy",
-    "sub_domain": "Cooking",
+    "sub_domain": "Health",
     "with_llm": 1
   },
   {
@@ -1670,7 +1670,7 @@
     "website": "https://craigslist.org/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1787,7 +1787,7 @@
     "website": "https://www.nvidia.com/",
     "reference_length": 11,
     "level": "hard",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1814,7 +1814,7 @@
     "website": "https://store.steampowered.com/",
     "reference_length": 11,
     "level": "hard",
-    "sub_domain": "Game",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -1841,7 +1841,7 @@
     "website": "https://www.us-appliance.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1850,7 +1850,7 @@
     "website": "https://www.apple.com/",
     "reference_length": 7,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1868,7 +1868,7 @@
     "website": "https://www.parkers.co.uk/",
     "reference_length": 3,
     "level": "easy",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -1877,7 +1877,7 @@
     "website": "https://soundcloud.com/",
     "reference_length": 6,
     "level": "medium",
-    "sub_domain": "Music",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -1891,7 +1891,7 @@
   },
   {
     "task_id": "5d542a7ec1fa142ba73cc87d970caf39",
-    "confirmed_task": "Find the most cited publication at the 2022 CVPR main conference.",
+    "confirmed_task": "Find the most cited publication at the 2025 CVPR main conference.",
     "website": "https://dblp.org/",
     "reference_length": 6,
     "level": "medium",
@@ -1931,7 +1931,7 @@
     "website": "https://www.apple.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -1958,7 +1958,7 @@
     "website": "https://bandcamp.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Music",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -1976,7 +1976,7 @@
     "website": "https://www.verizon.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -2012,7 +2012,7 @@
     "website": "https://store.steampowered.com/",
     "reference_length": 9,
     "level": "medium",
-    "sub_domain": "Game",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -2030,12 +2030,12 @@
     "website": "https://versus.com/",
     "reference_length": 10,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
     "task_id": "bb314cb80f0f8489135cbf59074d11e2",
-    "confirmed_task": "Open the page for the first Best Paper Award video recording of talks from ICLR 2016.",
+    "confirmed_task": "Open the page for the first Best Paper Award video recording of talks from ICLR 2025.",
     "website": "https://iclr.cc/",
     "reference_length": 4,
     "level": "easy",
@@ -2071,7 +2071,7 @@
   },
   {
     "task_id": "71f8de1834599fba443f40dbbfab8edd",
-    "confirmed_task": "Search for papers related to reinforcement learning under the topics of computer science and mathematics on arxiv, with recent submission dates between September 2024 and January 2025.",
+    "confirmed_task": "Search for papers related to reinforcement learning under the topics of computer science and mathematics on arxiv, with recent submission dates between September 2025 and January 2026.",
     "website": "https://arxiv.org/",
     "reference_length": 11,
     "level": "hard",
@@ -2111,7 +2111,7 @@
     "website": "https://www.samsung.com/",
     "reference_length": 14,
     "level": "hard",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -2138,7 +2138,7 @@
     "website": "https://www.porsche.com/",
     "reference_length": 15,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -2165,7 +2165,7 @@
     "website": "https://www.leagueoflegends.com/",
     "reference_length": 18,
     "level": "hard",
-    "sub_domain": "Game",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -2183,7 +2183,7 @@
     "website": "https://www.imdb.com/",
     "reference_length": 22,
     "level": "hard",
-    "sub_domain": "Movie",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -2201,7 +2201,7 @@
     "website": "https://www.parkers.co.uk/",
     "reference_length": 7,
     "level": "medium",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -2246,7 +2246,7 @@
     "website": "https://www.bhphotovideo.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -2327,7 +2327,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 17,
     "level": "hard",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -2363,7 +2363,7 @@
     "website": "https://www.bestbuy.com/",
     "reference_length": 12,
     "level": "hard",
-    "sub_domain": "Digital",
+    "sub_domain": "Shopping",
     "with_llm": 1
   },
   {
@@ -2399,7 +2399,7 @@
     "website": "https://www.apartments.com/",
     "reference_length": 15,
     "level": "hard",
-    "sub_domain": "Travel",
+    "sub_domain": "Housing",
     "with_llm": 1
   },
   {
@@ -2408,7 +2408,7 @@
     "website": "https://www.cars.com/",
     "reference_length": 12,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -2426,7 +2426,7 @@
     "website": "https://www.stubhub.com/",
     "reference_length": 12,
     "level": "hard",
-    "sub_domain": "Event",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -2489,7 +2489,7 @@
     "website": "https://imgur.com/",
     "reference_length": 8,
     "level": "medium",
-    "sub_domain": "Social Media",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -2498,7 +2498,7 @@
     "website": "https://www.chess.com/",
     "reference_length": 7,
     "level": "medium",
-    "sub_domain": "Game",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {
@@ -2507,7 +2507,7 @@
     "website": "https://spothero.com/",
     "reference_length": 17,
     "level": "hard",
-    "sub_domain": "Auto",
+    "sub_domain": "Transportation",
     "with_llm": 1
   },
   {
@@ -2516,7 +2516,7 @@
     "website": "https://boardgamegeek.com/",
     "reference_length": 5,
     "level": "easy",
-    "sub_domain": "Game",
+    "sub_domain": "Entertainment",
     "with_llm": 1
   },
   {

@@ -1,0 +1,21 @@
+{
+  "mode": "diff_subdomain_diff_website",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.coursera.org/",
+    "https://craigslist.org/",
+    "https://jobs.chronicle.com"
+  ],
+  "selected_subdomains": [
+    "Housing",
+    "Job",
+    "Education"
+  ],
+  "scenario": "I'm preparing to relocate to California for an academic job in computer science. I need to find current tenured/tenure-track openings in Computer Sciences & Technology in California, identify a beginner computer science course that includes advertisement skills I can teach or recommend, and look for suitable 2-bedroom+ apartments under $4,000/month near potential campuses. I'll use this information to decide which positions to apply to and plan housing and course prep if I get an offer.",
+  "combined_task": "Research relocation and job-prep for pursuing tenured/tenure-track Computer Sciences & Technology positions in California by (1) finding current faculty openings in that field and state, (2) locating a beginner computer science course that includes advertisement skills to prepare for teaching or recommendation, and (3) browsing available apartments with at least 2 bedrooms and 2 bathrooms priced up to $4,000/month near prospective campuses.",
+  "selected_subtasks": [
+    "Browse tenured/tenure-track faculty positions in Computer Sciences & Technology in California.",
+    "Search for a beginner’s course in computer science that includes advertisement skills.",
+    "Browse apartments with at least 2 bedrooms and 2 bathrooms and a max price of $4000 per month."
+  ]
+}

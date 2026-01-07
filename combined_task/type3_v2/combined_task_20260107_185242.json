@@ -1,0 +1,18 @@
+{
+  "mode": "diff_subdomain_diff_website",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.cvs.com/",
+    "https://www.birkenstocks.com/"
+  ],
+  "selected_subdomains": [
+    "Health",
+    "Shopping"
+  ],
+  "scenario": "I'm doing a quick online shopping session and need to add the most top-selling Birkenstock's men clogs in brown, size 10-10.5 to my cart. Also find the most reviewed gluten-free multivitamins from CVS Health Brand under $15 so I can decide and complete one checkout.",
+  "combined_task": "Find and add a top-selling Birkenstock men's clog to my cart and identify a highly reviewed, budget-friendly CVS Health gluten-free multivitamin for purchase.",
+  "selected_subtasks": [
+    "Add the most top-selling Birkenstock's men clogs in brown, size 10-10.5 to my cart.",
+    "Find the most reviewed gluten-free multivitamins from CVS Health Brand under $15."
+  ]
+}

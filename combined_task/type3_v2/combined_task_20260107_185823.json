@@ -1,0 +1,21 @@
+{
+  "mode": "diff_subdomain_diff_website",
+  "status": "OK",
+  "selected_websites": [
+    "https://www.compass.com/",
+    "https://doctor.webmd.com/",
+    "https://www.publicstorage.com/"
+  ],
+  "selected_subdomains": [
+    "Health",
+    "Housing",
+    "Shipping"
+  ],
+  "scenario": "I'm planning a move from the 60538 area to New York City and need to arrange housing, healthcare, and storage before the move. Please find a cheap 2-bed apartment in New York, a highly rated audiologist near New York, and a climate-controlled storage unit near 60538 that fits two small bedrooms' contents.",
+  "combined_task": "Plan and arrange a move from the 60538 area to New York City by finding a suitable 2-bed 3+ bath rental in New York, identifying a top-rated audiologist within 50 miles of New York, NY, and locating a climate-controlled self-storage near zip code 60538 that can hold the contents of two small bedrooms.",
+  "selected_subtasks": [
+    "Locate a self-storage unit near zip code 60538 that can fit the contens of two small bedrooms and is climate-controlled.",
+    "Find the best Audiologist within 50 miles of New York, NY, with a rating of 4 and above.",
+    "Find the cheapest 2 bed and 3+ bath apartment listing for rent in New York."
+  ]
+}
